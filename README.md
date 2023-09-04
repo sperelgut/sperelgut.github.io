@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python C/C++ Tensorflow/Keras PyTorch SQL GDScript Blender Unity
+#### Technical Skills: Python, C/C++, Tensorflow/Keras, PyTorch, SQL, GDScript
 
 ## Education
 - M.S., Computer Science | University of California Irvine (_December 2022_)								       		
@@ -8,13 +8,15 @@
 - B.S., Cognitive Science | University of California Davis (_June 2021_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Contract Software Engineer @ NotHalfBadGames (_Feb 2023 - Present_)**
+- Software Engineer for a new unreleased video game development start up working on a global economics-based strategy game.
+- Responsible for the creation of development tools, demos, micro environment physics simulations, user interface, and data analysis.
+- Extensive visualization and manipulation of large amount of csv data in order to incorporate accurate geographical information into game environment.
+- All tasks performed utilizing advanced data Structures, extensive object orient programming, and Git with programming in Python, Gdscript, and QGIS.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Student Teaching Assistant @ University of California Davis (_Jan 2021 - june_2021)**
+ -Worked as a student teaching assistant for an Introductory C Programming Course
+- Taught students object-oriented programming in Python, helped to organize material for Lectures, and assisted students in debugging code
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
