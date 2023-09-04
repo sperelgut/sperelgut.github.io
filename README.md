@@ -1,11 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python C/C++ Tensorflow/Keras PyTorch SQL GDScript Blender Unity
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Computer Science | University of California Irvine (_December 2022_)								       		
+- B.S, Computer Science | University of California Davis (_June 2021_)	 			        		
+- B.S., Cognitive Science | University of California Davis (_June 2021_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
