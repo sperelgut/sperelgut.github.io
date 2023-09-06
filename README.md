@@ -14,7 +14,7 @@
 - Extensive visualization and manipulation of large amount of csv data in order to incorporate accurate geographical information into game environment.
 - All tasks performed utilizing advanced data Structures, extensive object orient programming, and Git with programming in Python, Gdscript, and QGIS.
 
-**Student Teaching Assistant @ University of California Davis (_Jan 2021 - june_2021)**
+**Student Teaching Assistant @ University of California Davis (_Jan 2021 - june_2021_)**
 - Worked as a student teaching assistant for an Introductory C Programming Course
 - Taught students object-oriented programming in Python, helped to organize material for Lectures, and assisted students in debugging code
 
