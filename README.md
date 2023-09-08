@@ -19,6 +19,11 @@
 - Taught students object-oriented programming in Python, helped to organize material for Lectures, and assisted students in debugging code
 
 ## Projects
+### Shipping Game Simulator
+- Significant contributions to strategy game based around shipping route creations in Godot, including all external 
+data source processing, UI implementation, data clustering, demos, and threading
+- Creation of mini-map, clustering country data, advanced data structures, UI toolbar, save and load states
+
 ### Heart Attack Detection Website
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
