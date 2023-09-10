@@ -26,7 +26,8 @@ data source processing, UI implementation, data clustering, demos, and threading
 
 ### Heart Attack Detection Website
 [GitHub Repo]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/sperelgut/HeartAttackDetection))
-[Report and Results](/assets/img/ProjectReport.pdf)
+
+[Report and Results](https://github.com/sperelgut/sperelgut.github.io/blob/main/assets/ProjectReport.pdf)
 
 - Served as team leader and full stack developer for creation of a website which would classifier users as at risk or 
 not for heart attack
@@ -45,6 +46,8 @@ to solve Sokoban boards in Python.
 ![Sokoban_animation](/assets/Sokoban_ani.gif)
 
 ### Seq2Seq Title Generation
+[GitHub Repo]([https://github.com/sperelgut/CS272-Final-Project))
+
 - Developed a Natural Language Processing program using PyTorch to generate titles for forum posts.
 - Used Seq2Seq models including RNN model, BART Transformer model, and BigBird-Pegasus Transformer 
 model. 
@@ -54,13 +57,3 @@ model.
 - Developed an Ensemble classifier using Scikit-learn to classify images in the Fashion-MNIST dataset
 - Utilized Gradient Boosting, Support Vector Machine, Random Forrest and Convolutional Neural Network
 to build an Ensemble classifier
- 
-## Talks & Lectures
-
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-
-
-- [Data Science Blog](https://medium.com/@shawhin)
