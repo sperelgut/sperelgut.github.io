@@ -25,7 +25,7 @@ data source processing, UI implementation, data clustering, demos, and threading
 - Creation of mini-map, clustering country data, advanced data structures, UI toolbar, save and load states
 
 ### Heart Attack Detection Website
-[GitHub]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/sperelgut/HeartAttackDetection))
+[GitHub Repo]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/sperelgut/HeartAttackDetection))
 
 - Served as team leader and full stack developer for creation of a website which would classifier users as at risk or 
 not for heart attack
@@ -33,7 +33,7 @@ not for heart attack
 PyTorch, React, and Flask
 - Supervised Learning Classifier utilizing neural network over Big Data
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Report and Results](/assets/img/ProjectReport.pdf)
 
 ### Sokoban Solver
 
