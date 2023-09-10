@@ -41,7 +41,7 @@ PyTorch, React, and Flask
 - Developed an artificial intelligence program that uses Reinforcement Learning/Q-Learning
 to solve Sokoban boards in Python.
 - Utilized A* algorithm and softlock detection to increase performance 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Sokoban_animation](/assets/Sokoban_ani.gif)
 
 ### Seq2Seq Title Generation
 - Developed a Natural Language Processing program using PyTorch to generate titles for forum posts.
