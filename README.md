@@ -44,7 +44,7 @@ to solve Sokoban boards in Python.
 ![Sokoban_animation](/assets/Sokoban_ani.gif)
 
 ### Seq2Seq Title Generation
-[GitHub Repo]([https://github.com/sperelgut/CS272-Final-Project) and [Report and Results](https://github.com/sperelgut/sperelgut.github.io/blob/main/assets/CS272_Report-1.pdf)
+[GitHub Repo](https://github.com/sperelgut/CS272-Final-Project) and [Report and Results](https://github.com/sperelgut/sperelgut.github.io/blob/main/assets/CS272_Report-1.pdf)
 
 - Developed a Natural Language Processing program using PyTorch to generate titles for forum posts.
 - Used Seq2Seq models including RNN model, BART Transformer model, and BigBird-Pegasus Transformer 
