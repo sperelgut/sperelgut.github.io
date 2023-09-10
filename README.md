@@ -25,7 +25,7 @@ data source processing, UI implementation, data clustering, demos, and threading
 - Creation of mini-map, clustering country data, advanced data structures, UI toolbar, save and load states
 
 ### Heart Attack Detection Website
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[GitHub]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/sperelgut/HeartAttackDetection))
 
 - Served as team leader and full stack developer for creation of a website which would classifier users as at risk or 
 not for heart attack
