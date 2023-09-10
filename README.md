@@ -36,11 +36,11 @@ PyTorch, React, and Flask
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Sokoban Solver
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 - Developed an artificial intelligence program that uses Reinforcement Learning/Q-Learning
 to solve Sokoban boards in Python.
-- Utilized A* algorithm and softlock detection to increase performance 
+- Utilized A* algorithm and softlock detection to increase performance
+  
 ![Sokoban_animation](/assets/Sokoban_ani.gif)
 
 ### Seq2Seq Title Generation
