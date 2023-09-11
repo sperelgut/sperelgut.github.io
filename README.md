@@ -55,3 +55,5 @@ model.
 - Developed an Ensemble classifier using Scikit-learn to classify images in the Fashion-MNIST dataset
 - Utilized Gradient Boosting, Support Vector Machine, Random Forrest and Convolutional Neural Network
 to build an Ensemble classifier
+
+![Fashion convolution](/assets/eigenGif.gif)
