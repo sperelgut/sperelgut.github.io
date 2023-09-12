@@ -1,5 +1,7 @@
-# Data Scientist
+#Software Developer
 
+## About Me
+  hello I am Sam Perelgut, A software devloper with a specialization in machine Learning. I am a relatively recent graduate of University Of California Irvine where I obtained my M.S. in computer science. Prior to that I attended Univeristy of California Davis where I double majored in computer science and cognitive science. I am currently working in game development 
 #### Technical Skills: Python, C/C++, Tensorflow/Keras, PyTorch, SQL, GDScript
 
 ## Education
