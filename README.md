@@ -45,7 +45,7 @@ PyTorch, React, and Flask
 
 - Developed an artificial intelligence program that uses Reinforcement Learning/Q-Learning
 to solve Sokoban boards in Python.
-- Utilized A* algorithm and softlock detection to increase performance
+- Utilized the A* algorithm and softlock detection to increase performance
   
 ![Sokoban_animation](/assets/Sokoban_ani.gif)
 
