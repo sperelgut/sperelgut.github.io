@@ -1,7 +1,8 @@
-#Software Developer
+# Software Developer
 
 ## About Me
-  hello I am Sam Perelgut, A software devloper with a specialization in machine Learning. I am a relatively recent graduate of University Of California Irvine where I obtained my M.S. in computer science. Prior to that I attended Univeristy of California Davis where I double majored in computer science and cognitive science. I am currently working in game development at a new start up called NotHalfBadGames as a contract software Dev. My responsibilities consists of UI design, data analysis and processing, Demo creation, micro enviroment simulations, and software development. I am passionate about AI and its applications in a variety of fields. I belive it can be used to change the world and I would like to be part of that change 
+
+Hello, I am Sam Perelgut, a software developer with a specialization in machine learning. I am a relatively recent graduate of the University of California, Irvine, where I obtained my M.S. in computer science. Prior to that, I attended the University of California, Davis, where I double majored in computer science and cognitive science. I am currently working in game development at a new start-up called NotHalfBadGames as a contract software developer. My responsibilities consist of UI design, data analysis and processing, demo creation, microenvironment simulations, and software development. I am passionate about AI and its applications in a variety of fields. I believe it can be used to change the world, and I would like to be part of that change.
   
 #### Technical Skills: Python, C/C++, Tensorflow/Keras, PyTorch, SQL, GDScript
 
@@ -12,10 +13,10 @@
 
 ## Work Experience
 **Contract Software Engineer @ NotHalfBadGames (_Feb 2023 - Present_)**
-- Software Engineer for a new unreleased video game development start up working on a global economics-based strategy game.
+- Software Engineer for a new unreleased video game development start-up working on a global economics-based strategy game.
 - Responsible for the creation of development tools, demos, micro environment physics simulations, user interface, and data analysis.
-- Extensive visualization and manipulation of large amount of csv data in order to incorporate accurate geographical information into game environment.
-- All tasks performed utilizing advanced data Structures, extensive object orient programming, and Git with programming in Python, Gdscript, and QGIS.
+- Extensive visualization and manipulation of large amounts of csv data in order to incorporate accurate geographical information into the game environment.
+- All tasks performed utilizing advanced data Structures, extensive object oriented programming, and Git with programming in Python, Gdscript, and QGIS.
 
 **Student Teaching Assistant @ University of California Davis (_Jan 2021 - june_2021_)**
 - Worked as a student teaching assistant for an Introductory C Programming Course
