@@ -19,8 +19,8 @@ Hello, I am Sam Perelgut, a software developer with a specialization in machine 
 - All tasks performed utilizing advanced data Structures, extensive object oriented programming, and Git with programming in Python, Gdscript, and QGIS.
 
 **Student Teaching Assistant @ University of California Davis (_Jan 2021 - june_2021_)**
-- Worked as a student teaching assistant for an Introductory C Programming Course
-- Taught students object-oriented programming in Python, helped to organize material for Lectures, and assisted students in debugging code
+- Worked as a student teaching assistant for an Introductory C programming Course
+- Taught students object-oriented programming in Python, helped organize material for lectures, and assisted students in debugging code
 
 ## Projects
 ### Shipping Game Simulator
