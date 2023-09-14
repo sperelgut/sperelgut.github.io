@@ -14,7 +14,7 @@ Hello, I am Sam Perelgut, a software developer with a specialization in machine 
 ## Work Experience
 **Contract Software Engineer @ NotHalfBadGames (_Feb 2023 - Present_)**
 - Software Engineer for a new unreleased video game development start-up working on a global economics-based strategy game.
-- Responsible for the creation of development tools, demos, micro environment physics simulations, user interface, and data analysis.
+- Responsible for the creation of development tools, demos, micro environment physics simulations, user interface, unit testing, and data analysis.
 - Extensive visualization and manipulation of large amounts of csv data in order to incorporate accurate geographical information into the game environment.
 - All tasks performed utilizing advanced data Structures, extensive object oriented programming, and Git with programming in Python, Gdscript, and QGIS.
 
