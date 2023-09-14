@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, I am Sam Perelgut, a software developer with a specialization in machine learning. I am a relatively recent graduate of the University of California, Irvine, where I obtained my M.S. in computer science. Prior to that, I attended the University of California, Davis, where I double majored in computer science and cognitive science. I am currently working in game development at a new start-up called NotHalfBadGames as a contract software developer. I am passionate about AI and its applications in a variety of fields. I believe it can be used to change the world, and I would like to be part of that change.
+Hello, I am Sam Perelgut, a software developer with a specialization in machine learning. I am a relatively recent graduate of the University of California, Irvine, where I earned my M.S. in Computer Science. Prior to UCI, I attended the University of California, Davis, where I double majored in Computer Science and Cognitive Science. I am currently working in game development at a new start-up called NotHalfBadGames as a contract software developer. I am passionate about AI and its applications in a variety of fields. I believe it can be used to change the world, and I would like to be part of that change.
   
 #### Technical Skills: Python, C/C++, Tensorflow/Keras, PyTorch, SQL, GDScript
 
@@ -13,12 +13,12 @@ Hello, I am Sam Perelgut, a software developer with a specialization in machine 
 
 ## Work Experience
 **Contract Software Engineer @ NotHalfBadGames (_Feb 2023 - Present_)**
-- Software Engineer for a new unreleased video game development start-up working on a global economics-based strategy game.
+- Software Engineer for a new unreleased global economics-based strategy video game.
 - Responsible for the creation of development tools, demos, micro environment physics simulations, user interface, unit testing, and data analysis.
 - Extensive visualization and manipulation of large amounts of csv data in order to incorporate accurate geographical information into the game environment.
-- All tasks performed utilizing advanced data Structures, extensive object oriented programming, and Git with programming in Python, Gdscript, and QGIS.
+- All tasks performed utilizing advanced data structures, extensive object oriented programming, and Git with programming in Python, Gdscript, and QGIS.
 
-**Student Teaching Assistant @ University of California Davis (_Jan 2021 - june_2021_)**
+**Student Teaching Assistant @ University of California Davis (_Jan 2021 - june 2021_)**
 - Worked as a student teaching assistant for an Introductory C programming Course
 - Taught students object-oriented programming in Python, helped organize material for lectures, and assisted students in debugging code
 
@@ -33,8 +33,7 @@ data source processing, UI implementation, data clustering, demos, and threading
 ### Heart Attack Detection Website
 [GitHub Repo](https://github.com/sperelgut/HeartAttackDetection) and [Report and Results](https://github.com/sperelgut/sperelgut.github.io/blob/main/assets/ProjectReport.pdf)
 
-- Served as team leader and full stack developer for creation of a website which would classifier users as at risk or 
-not for heart attack
+- Served as team leader and full stack developer for creation of a website which would classify whether users are at risk of a heart attack
 - Performed data analysis, Front-end development, back-end development and integration of the two using 
 PyTorch, React, and Flask
 - Supervised Learning Classifier utilizing neural network over Big Data
