@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, I am Sam Perelgut, a software developer with a specialization in machine learning. I am a relatively recent graduate of the University of California, Irvine, where I obtained my M.S. in computer science. Prior to that, I attended the University of California, Davis, where I double majored in computer science and cognitive science. I am currently working in game development at a new start-up called NotHalfBadGames as a contract software developer. My responsibilities consist of UI design, data analysis and processing, demo creation, microenvironment simulations, and software development. I am passionate about AI and its applications in a variety of fields. I believe it can be used to change the world, and I would like to be part of that change.
+Hello, I am Sam Perelgut, a software developer with a specialization in machine learning. I am a relatively recent graduate of the University of California, Irvine, where I obtained my M.S. in computer science. Prior to that, I attended the University of California, Davis, where I double majored in computer science and cognitive science. I am currently working in game development at a new start-up called NotHalfBadGames as a contract software developer. I am passionate about AI and its applications in a variety of fields. I believe it can be used to change the world, and I would like to be part of that change.
   
 #### Technical Skills: Python, C/C++, Tensorflow/Keras, PyTorch, SQL, GDScript
 
