@@ -34,6 +34,15 @@ The animatiom below focuses on functionality and showcases some key features suc
 - User navigation of map with synchronized updates to the mini-map. 
 ![Ship_animation](/assets/shipgif.gif)
 
+In addition to core gameplay features, I’ve focused on enhancing the visual polish of the game as well through the following:
+Shaders: Utilized advanced shader techniques to create visually appealing effects, 
+- including realistic lighting and shadow
+- seamless textures
+- realisitic terrain
+- flowing waves which crash on the shoreline
+
+![Map shader](/assets/worldgif.gif)
+
 ### Heart Attack Detection Website
 [GitHub Repo](https://github.com/sperelgut/HeartAttackDetection) and [Report and Results](https://github.com/sperelgut/sperelgut.github.io/blob/main/assets/ProjectReport.pdf)
 
