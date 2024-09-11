@@ -12,11 +12,13 @@ Hello, I am Sam Perelgut, a software developer with a specialization in machine 
 - B.S., Cognitive Science | University of California Davis (_June 2021_)
 
 ## Work Experience
-**Contract Software Engineer @ NotHalfBadGames (_Feb 2023 - Present_)**
-- Software Engineer for a new unreleased global economics-based strategy video game.
-- Responsible for the creation of development tools, demos, micro environment physics simulations, user interface, unit testing, and data analysis.
-- Extensive visualization and manipulation of large amounts of csv data in order to incorporate accurate geographical information into the game environment.
-- All tasks performed utilizing advanced data structures, extensive object oriented programming, and Git with programming in Python, Gdscript, and QGIS.
+**Software Engineer @ NotHalfBadGames (_Feb 2023 - Present_)**
+-	Significant contributions as a software engineer for an unreleased global economics-based strategy video game which overall led to a 50% increase in time saved for the team’s development lifecycle 
+-	Wrote and debugged 100% of the code for pop-ups, menus, tool bars, data clustering, mini-map, material shaders, external data source processing, interface/backend integration, save/load states, demos, microenvironment physics simulations, Voronoi diagrams, Procedural Terrain Generation.  
+-	Optimizations to physics engine, code simplification, and utilization of advanced run-time algorithms which increased games frame rate from 25 to 90 frames per second on company’s benchmarks
+-	Extensive data analysis focusing on visualization and manipulation of large amounts of CSV data in order to incorporate accurate geographical information into game environment.
+-	All tasks performed utilizing advanced data structures, extensive object-oriented programming, and Git with programming in Python, GDScript, and QGIS.
+
 
 **Student Teaching Assistant @ University of California Davis (_Jan 2021 - june 2021_)**
 - Worked as a student teaching assistant for an Introductory C programming Course
@@ -28,7 +30,7 @@ Hello, I am Sam Perelgut, a software developer with a specialization in machine 
 data source processing, UI implementation, data clustering, demos, and threading
 - Creation of mini-map, clustering country data, advanced data structures, UI toolbar, save and load states
 
-![Sokoban_animation](/assets/shipgif.gif)
+![Ship_animation](/assets/shipgif.gif)
 
 ### Heart Attack Detection Website
 [GitHub Repo](https://github.com/sperelgut/HeartAttackDetection) and [Report and Results](https://github.com/sperelgut/sperelgut.github.io/blob/main/assets/ProjectReport.pdf)
