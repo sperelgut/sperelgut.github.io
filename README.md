@@ -28,7 +28,10 @@ Hello, I am Sam Perelgut, a software developer with a specialization in machine 
 ### Shipping Game Simulator
 This is the project I have been working on for my current job postion from Feb 2023 to the present.
 The animatiom below focuses on functionality and showcases some key features such as:
-Menu and user UI, Navigation Mesh allowing users to draw their own routes with AI assistance. animation of ships movvonmg between ports, Enabled panning on the main map with synchronized updates to the mini-map. 
+- Menu and user UI,
+- Navigation Mesh allowing users to draw their own routes with AI assistance
+- Animations including movem,ent of ships between ports,
+- User navigation of map with synchronized updates to the mini-map. 
 ![Ship_animation](/assets/shipgif.gif)
 
 ### Heart Attack Detection Website
